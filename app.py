@@ -2,7 +2,7 @@ import pulp
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import japanize_matplotlib
+#import japanize_matplotlib
 from shift_scheduler import ShiftScheduler
 
 # タイトル
